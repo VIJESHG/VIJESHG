@@ -50,7 +50,7 @@ Technology is more than code — it’s a catalyst for **meaningful change**. I 
 ---
 ### 🔥 Languages & Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,python,linux,git,postman,docker,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,python,linux,git,postman,docker,kubernetes,github,vscode,css,express,flask,ai,kafka,maven,npm,nodejs,react,redux)" />
 </p>
 
 - **Backend:** Java (Records, Streams), Spring Boot, Microservices, REST APIs.
@@ -69,7 +69,6 @@ Technology is more than code — it’s a catalyst for **meaningful change**. I 
 
 ### 📫 Reach Me
 - 📧 **Email:** [mail.vijeshg@gmail.com](mailto:mail.vijeshg@gmail.com)
-- 💬 **Ask me about:** Spring Boot, Linux commands, or the best photography spots in Goa!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
