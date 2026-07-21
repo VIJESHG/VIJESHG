@@ -2,10 +2,12 @@
 ### Full Stack Developer | AI Enthusiast | COEP Tech Alumnus
 
 <p align="left">
+<p align="left">
+  <a href="https://vijeshg.github.io/"><img src="https://img.shields.io/badge/Personal%20Website-1DA1F2?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 <a href="https://linkedin.com/in/vijeshg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/VIJESH1996"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/VIJESHG/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/6192862/vijesh"><img src="https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-<a href="https://instagram.com/vijeshg7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
