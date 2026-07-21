@@ -5,8 +5,8 @@
 <p align="left">
   <a href="https://vijeshg.github.io/"><img src="https://img.shields.io/badge/Personal%20Website-1DA1F2?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 <a href="https://linkedin.com/in/vijeshg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/VIJESH1996"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   <a href="https://leetcode.com/u/VIJESHG/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/VIJESH1996"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/6192862/vijesh"><img src="https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
@@ -18,7 +18,7 @@ I am a results-driven **Software Engineer** with 7+ years of experience in build
 ### 🎓 About Me
 - 🎓 **Graduate:** B.Tech in Computer Engineering from **COEP Technological University, Pune** (2018).
 - 💻 **Passionate Builder:** I love crafting clean code and exploring the latest in software architecture.
-- 🚀 **AI Explorer:** Currently deep-diving into **Agentic Workflows** and **LLM-based Chrome Extensions** (like SnapReadAI).
+- 🚀 **AI Explorer:** Exploring Agentic AI and intelligent automation to build resilient systems
   
 ---
 
