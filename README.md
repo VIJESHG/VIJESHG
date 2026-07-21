@@ -9,15 +9,43 @@
 </p>
 
 ---
+### 🚀 Professional Summary  
+
+I am a results-driven **Software Engineer** with 7+ years of experience in building **scalable, user-centric solutions** across industries. My expertise spans **end-to-end fullstack development** and **Agentic AI systems**, with a strong focus on clean architecture, intelligent automation, and future-proof engineering practices.  
 
 ### 🎓 About Me
 - 🎓 **Graduate:** B.Tech in Computer Engineering from **COEP Technological University, Pune** (2018).
 - 💻 **Passionate Builder:** I love crafting clean code and exploring the latest in software architecture.
 - 🚀 **AI Explorer:** Currently deep-diving into **Agentic Workflows** and **LLM-based Chrome Extensions** (like SnapReadAI).
-- 🎨 **Creative Side:** When not coding, I’m practicing digital art on my iPad or capturing architectural beauty for my travel journals.
+  
+---
+
+## 🛠️ Core Expertise  
+
+### ⚡ End-to-End Fullstack Engineering  
+- Designing and deploying **high-performance applications** with clean architecture, robust APIs, and responsive UIs.  
+- Hands-on experience with:  
+  - **Frontend:** ReactJS, Angular  
+  - **Backend:** Node.js, Spring Boot, Java, Python  
+  - **Databases:** MS SQL Server, Oracle  
+
+### 🤖 Agentic AI & Autonomous Systems  
+- Architecting **intelligent automation platforms** using **LLMs**, modern frameworks, and secure orchestration.  
+- Building **stateful, resilient systems** that streamline DevOps workflows and reduce operational overhead.  
+- Technologies: **LangGraph, MCP Protocol, GenAI APIs, LLM Orchestration**  
+
+### 🌍 Beyond the Terminal  
+- Passionate about exploring **global tech trends** and experimenting with emerging tools.  
+- Avid follower of **Cricket, Tennis, and Football** (recently since the World Cup 2026).  
+- Enthusiastic about **stats, analytics, and world events**, with a belief that technology should solve real human problems and deliver **tangible value**.  
 
 ---
 
+## 💡 Core Belief  
+
+Technology is more than code — it’s a catalyst for **meaningful change**. I approach every project with creativity, precision, and a relentless drive to deliver solutions that matter.  
+
+---
 ### 🔥 Languages & Frameworks & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,js,python,linux,git,postman,docker,github,vscode" />
@@ -29,13 +57,7 @@
 
 ---
 
-### ⚡ GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIJESHG&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJESHG&layout=compact&theme=radical" />
-</p>
 
----
 
 ### 👨‍💻 Featured Repositories
 * 📖 **SnapReadAI:** A Chrome Extension for instant website summarization using the Gemini API.
